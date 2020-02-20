@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>png/bag2x_circle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{155,133}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,140}</string>
+			</dict>
+			<key>png/bag2x_circle_burst1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{155,0},{127,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,140}</string>
+			</dict>
+			<key>png/bag2x_circle_burst2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,0},{123,117}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,140}</string>
+			</dict>
+			<key>png/bag2x_circle_burst3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,0},{106,72}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,140}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bag2.png</string>
+			<key>realTextureFileName</key>
+			<string>bag2.png</string>
+			<key>size</key>
+			<string>{511,133}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>511</integer>
+			<key>height</key>
+			<integer>133</integer>
+		</dict>
+	</dict>
+</plist>

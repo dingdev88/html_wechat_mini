@@ -1,0 +1,355 @@
+{
+  "ID": "84a74e96-4bdf-47b8-b877-730b5f639e80",
+  "Version": "3.10.0.0",
+  "Name": "DialogHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 324,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "png/dialog_background.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 161,
+            "Scale9OriginY": 161,
+            "Scale9Width": 166,
+            "Scale9Height": 167,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.8842,
+              "Y": 488.9907
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.5094
+            },
+            "PreSize": {
+              "X": 0.9037,
+              "Y": 0.5094
+            },
+            "LeftMargin": 26.8842,
+            "RightMargin": 25.1158,
+            "TopMargin": 226.5093,
+            "BottomMargin": 244.4907,
+            "Tag": 325,
+            "ActionTag": 1164904065,
+            "Size": {
+              "X": 488.0,
+              "Y": 489.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 230,
+              "G": 230,
+              "B": 250
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "png/button_disabled.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "png/button_enabled.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 125,
+            "Scale9Height": 47,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 274.5496,
+              "Y": 308.7204
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5084,
+              "Y": 0.3216
+            },
+            "PreSize": {
+              "X": 0.287,
+              "Y": 0.0719
+            },
+            "LeftMargin": 197.0496,
+            "RightMargin": 187.9504,
+            "TopMargin": 616.7796,
+            "BottomMargin": 274.2204,
+            "Tag": 342,
+            "ActionTag": -24466099,
+            "Size": {
+              "X": 155.0,
+              "Y": 69.0
+            },
+            "Name": "btn_ok",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 25,
+            "LabelText": "OK",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 276.5903,
+              "Y": 309.0305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5122,
+              "Y": 0.3219
+            },
+            "PreSize": {
+              "X": 0.0667,
+              "Y": 0.0292
+            },
+            "LeftMargin": 258.5903,
+            "RightMargin": 245.4097,
+            "TopMargin": 636.9695,
+            "BottomMargin": 295.0305,
+            "Tag": 341,
+            "ActionTag": -19889379,
+            "Size": {
+              "X": 36.0,
+              "Y": 28.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 35,
+            "LabelText": "HELP",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 261.8994,
+              "Y": 673.324
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.485,
+              "Y": 0.7014
+            },
+            "PreSize": {
+              "X": 0.1667,
+              "Y": 0.0417
+            },
+            "LeftMargin": 216.8994,
+            "RightMargin": 233.1006,
+            "TopMargin": 266.676,
+            "BottomMargin": 653.324,
+            "Tag": 344,
+            "ActionTag": 937933797,
+            "Size": {
+              "X": 90.0,
+              "Y": 40.0
+            },
+            "Name": "Text_9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "How to play:",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 78.8588,
+              "Y": 616.6384
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.146,
+              "Y": 0.6423
+            },
+            "PreSize": {
+              "X": 0.3,
+              "Y": 0.0365
+            },
+            "LeftMargin": 78.8588,
+            "RightMargin": 299.1412,
+            "TopMargin": 325.8616,
+            "BottomMargin": 599.1384,
+            "Tag": 347,
+            "ActionTag": 1283947843,
+            "Size": {
+              "X": 162.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Touch and hold anywhere \non the screen to release balls \ninto the moving bags.\n\nGame ends when you lose \nall your balls.",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.5739,
+              "Y": 475.6405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.14,
+              "Y": 0.4955
+            },
+            "PreSize": {
+              "X": 0.7278,
+              "Y": 0.2188
+            },
+            "LeftMargin": 75.5739,
+            "RightMargin": 71.4261,
+            "TopMargin": 379.3595,
+            "BottomMargin": 370.6405,
+            "Tag": 349,
+            "ActionTag": 112085714,
+            "Size": {
+              "X": 393.0,
+              "Y": 210.0
+            },
+            "Name": "Text_9_0_0_0_0_0",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "png/button_disabled.png",
+        "png/button_enabled.png",
+        "png/dialog_background.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

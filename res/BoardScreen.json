@@ -1,0 +1,187 @@
+{
+  "ID": "76208e1b-d024-4662-9294-56374252e2e8",
+  "Version": "3.10.0.0",
+  "Name": "BoardScreen",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "png/background.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 178,
+            "Scale9OriginY": 316,
+            "Scale9Width": 184,
+            "Scale9Height": 328,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 4,
+            "ActionTag": -564022202,
+            "Size": {
+              "X": 540.0,
+              "Y": 960.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "png/banner.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 178,
+            "Scale9OriginY": 33,
+            "Scale9Width": 184,
+            "Scale9Height": 34,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1042
+            },
+            "TopMargin": 860.0,
+            "Tag": 6,
+            "ActionTag": 307693652,
+            "Size": {
+              "X": 540.0,
+              "Y": 100.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "png/icon_return_disabled.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "png/icon_return_enabled.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 28,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 48.7582,
+              "Y": 892.3219
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0903,
+              "Y": 0.9295
+            },
+            "PreSize": {
+              "X": 0.1074,
+              "Y": 0.0594
+            },
+            "LeftMargin": 19.7582,
+            "RightMargin": 462.2418,
+            "TopMargin": 39.1781,
+            "BottomMargin": 863.8219,
+            "Tag": 15,
+            "ActionTag": 278753293,
+            "Size": {
+              "X": 58.0,
+              "Y": 57.0
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "png/background.png",
+        "png/banner.png",
+        "png/icon_return_disabled.png",
+        "png/icon_return_enabled.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

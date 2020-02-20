@@ -1,0 +1,546 @@
+{
+  "ID": "e6085200-2dd4-4de4-b266-0fae4c6dc012",
+  "Version": "3.10.0.0",
+  "Name": "DialogCoin",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 324,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "png/dialog_background.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 161,
+            "Scale9OriginY": 161,
+            "Scale9Width": 166,
+            "Scale9Height": 167,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.8842,
+              "Y": 488.9907
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.5094
+            },
+            "PreSize": {
+              "X": 0.9037,
+              "Y": 0.5094
+            },
+            "LeftMargin": 26.8842,
+            "RightMargin": 25.1158,
+            "TopMargin": 226.5093,
+            "BottomMargin": 244.4907,
+            "Tag": 325,
+            "ActionTag": 1164904065,
+            "Size": {
+              "X": 488.0,
+              "Y": 489.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 230,
+              "G": 230,
+              "B": 250
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "png/button_disabled.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "png/button_enabled.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 125,
+            "Scale9Height": 47,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 274.5496,
+              "Y": 308.7204
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5084,
+              "Y": 0.3216
+            },
+            "PreSize": {
+              "X": 0.287,
+              "Y": 0.0719
+            },
+            "LeftMargin": 197.0496,
+            "RightMargin": 187.9504,
+            "TopMargin": 616.7796,
+            "BottomMargin": 274.2204,
+            "Tag": 342,
+            "ActionTag": -24466099,
+            "Size": {
+              "X": 155.0,
+              "Y": 69.0
+            },
+            "Name": "btn_ok",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 25,
+            "LabelText": "OK",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 276.5903,
+              "Y": 309.0305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5122,
+              "Y": 0.3219
+            },
+            "PreSize": {
+              "X": 0.0667,
+              "Y": 0.0292
+            },
+            "LeftMargin": 258.5903,
+            "RightMargin": 245.4097,
+            "TopMargin": 636.9695,
+            "BottomMargin": 295.0305,
+            "Tag": 341,
+            "ActionTag": -19889379,
+            "Size": {
+              "X": 36.0,
+              "Y": 28.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "png/icon_coin_enabled.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 14,
+            "Scale9Width": 19,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0919,
+              "Y": 659.7092
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1946,
+              "Y": 0.6872
+            },
+            "PreSize": {
+              "X": 0.0981,
+              "Y": 0.0469
+            },
+            "LeftMargin": 78.5919,
+            "RightMargin": 408.4081,
+            "TopMargin": 277.7908,
+            "BottomMargin": 637.2092,
+            "Tag": 343,
+            "ActionTag": -1314422392,
+            "Size": {
+              "X": 53.0,
+              "Y": 45.0
+            },
+            "Name": "Image_8",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 35,
+            "LabelText": "COIN OVERVIEW",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 291.4668,
+              "Y": 661.8252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5398,
+              "Y": 0.6894
+            },
+            "PreSize": {
+              "X": 0.5259,
+              "Y": 0.0417
+            },
+            "LeftMargin": 149.4668,
+            "RightMargin": 106.5332,
+            "TopMargin": 278.1748,
+            "BottomMargin": 641.8252,
+            "Tag": 344,
+            "ActionTag": 937933797,
+            "Size": {
+              "X": 284.0,
+              "Y": 40.0
+            },
+            "Name": "Text_9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Min Value: 0",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.0005,
+              "Y": 586.3167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1704,
+              "Y": 0.6107
+            },
+            "PreSize": {
+              "X": 0.3019,
+              "Y": 0.0365
+            },
+            "LeftMargin": 92.0005,
+            "RightMargin": 284.9995,
+            "TopMargin": 356.1833,
+            "BottomMargin": 568.8167,
+            "Tag": 345,
+            "ActionTag": -1790421418,
+            "Size": {
+              "X": 163.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Max Value: 60",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.0005,
+              "Y": 543.1967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1704,
+              "Y": 0.5658
+            },
+            "PreSize": {
+              "X": 0.3444,
+              "Y": 0.0365
+            },
+            "LeftMargin": 92.0005,
+            "RightMargin": 261.9995,
+            "TopMargin": 399.3033,
+            "BottomMargin": 525.6967,
+            "Tag": 346,
+            "ActionTag": 1899583984,
+            "Size": {
+              "X": 186.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "How to get:",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.0001,
+              "Y": 481.8459
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1704,
+              "Y": 0.5019
+            },
+            "PreSize": {
+              "X": 0.2741,
+              "Y": 0.0365
+            },
+            "LeftMargin": 92.0001,
+            "RightMargin": 299.9999,
+            "TopMargin": 460.6541,
+            "BottomMargin": 464.3459,
+            "Tag": 347,
+            "ActionTag": 1283947843,
+            "Size": {
+              "X": 148.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "1. Initial Value is 30",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.0001,
+              "Y": 436.0339
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1704,
+              "Y": 0.4542
+            },
+            "PreSize": {
+              "X": 0.4722,
+              "Y": 0.0365
+            },
+            "LeftMargin": 92.0001,
+            "RightMargin": 192.9999,
+            "TopMargin": 506.4661,
+            "BottomMargin": 418.5339,
+            "Tag": 348,
+            "ActionTag": -843570709,
+            "Size": {
+              "X": 255.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0_0_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "2. Invite Friends",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.0001,
+              "Y": 390.2214
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1704,
+              "Y": 0.4065
+            },
+            "PreSize": {
+              "X": 0.3907,
+              "Y": 0.0365
+            },
+            "LeftMargin": 92.0001,
+            "RightMargin": 236.9999,
+            "TopMargin": 552.2786,
+            "BottomMargin": 372.7214,
+            "Tag": 349,
+            "ActionTag": 112085714,
+            "Size": {
+              "X": 211.0,
+              "Y": 35.0
+            },
+            "Name": "Text_9_0_0_0_0_0",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 540.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "png/button_disabled.png",
+        "png/button_enabled.png",
+        "png/dialog_background.png",
+        "png/icon_coin_enabled.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
